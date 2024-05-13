@@ -1,4 +1,4 @@
-# # ⭐ Oi, sou a Carol! ⭐
+# ⭐ Oi, sou a Carol! ⭐
 
 # Sobre mim
 
@@ -9,7 +9,7 @@ Sou formada em Farmácia-Bioquímica
 Estudante de Análise e Desenvolvimento de Sistemas
 
 # 🔎 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/carolina-almeida-88297568) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolina-almeida-88297568)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carolpsa)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carolpsa.unesp@gmail.com)
 
@@ -26,6 +26,7 @@ Estudante de Análise e Desenvolvimento de Sistemas
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 # Área de atuação
 *Atualmente:* Qualidade Hospitalar
